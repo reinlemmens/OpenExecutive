@@ -9,6 +9,23 @@ From 0.3.0 on, entries are written by release-please from the titles of the
 merged pull requests (`feat` → Added, `fix` → Fixed). The open release PR holds
 the next entry; edit it there before merging if a line needs rewording.
 
+## [0.4.2](https://github.com/SenteLabsAI/OpenExecutive/compare/v0.4.1...v0.4.2) (2026-09-27)
+
+
+### Added
+
+* **delegation:** draft replies in your voice from your own Gmail ([#242](https://github.com/SenteLabsAI/OpenExecutive/issues/242)) ([cc2e95f](https://github.com/SenteLabsAI/OpenExecutive/commit/cc2e95f386d3ac1a65ed923a16cac6b2f2e70216))
+* **knowledge:** read scanned PDFs on every channel ([#254](https://github.com/SenteLabsAI/OpenExecutive/issues/254)) ([a083f18](https://github.com/SenteLabsAI/OpenExecutive/commit/a083f1851492b529047c1b2ae2b30505a07ac170))
+* **ui:** make goals quick to add with one required field ([#239](https://github.com/SenteLabsAI/OpenExecutive/issues/239)) ([5219d0a](https://github.com/SenteLabsAI/OpenExecutive/commit/5219d0a84d6691b5e08ff01a7b755961f868dd58))
+* **ui:** open workflows on a start-here panel ([#236](https://github.com/SenteLabsAI/OpenExecutive/issues/236)) ([ab37898](https://github.com/SenteLabsAI/OpenExecutive/commit/ab37898471e1cb1d92ee26fd2a8c086899ead18c))
+
+
+### Fixed
+
+* **delegation:** show your whole writing profile and keep its line breaks ([#252](https://github.com/SenteLabsAI/OpenExecutive/issues/252)) ([3f6ba5b](https://github.com/SenteLabsAI/OpenExecutive/commit/3f6ba5bf7cffb881b15f0ef05524e045e28a17e0))
+* **evals:** point make eval and docs at the packaged scenarios ([#240](https://github.com/SenteLabsAI/OpenExecutive/issues/240)) ([a0f31d9](https://github.com/SenteLabsAI/OpenExecutive/commit/a0f31d907f6c68bee27712ebdf56bbea8ea9c329))
+* **ui:** anchor the auth middleware's path exclusions ([#251](https://github.com/SenteLabsAI/OpenExecutive/issues/251)) ([b90c611](https://github.com/SenteLabsAI/OpenExecutive/commit/b90c611d0889472a35469d81f81ed052cbef2fee))
+
 ## [0.4.1](https://github.com/SenteLabsAI/OpenExecutive/compare/v0.4.0...v0.4.1) (2026-09-25)
 
 
